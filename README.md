@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexliu0121
-- 👀 I’m interested in coding, guitar. New to DL fields :)
-- 🌱 I’m currently learning in National University of Kaohsiung
-- 📫 How to reach me, email:a1073311@mail.nuk.edu.tw
+- 👀 I’m interested in coding, guitar, NLP, DL and ML.
+- 🌱 I’m currently pursuing my Master's Degree in UCSC
+- 📫 How to reach me, email: alexliu0121@gmail.com
 
 <!---
 alexliu0121/alexliu0121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
