@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, guitar, NLP, DL and ML.
 - 🌱 I recently graduated with a Master’s degree in Natural Language Processing(Computer Science) at University of California, Santa Cruz(UCSC)
 - 💼 I'm now a Volunteer NLP Software Developer at UC Santa Cruz, working under Professor Ian Lane on the CruzChat platform
+- 💻 My personal website: https://alexliu0121.github.io/
 - 📫 How to reach me, email: alexliu0121@gmail.com
 
 <!---
